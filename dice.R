@@ -5,3 +5,4 @@ roll_dice <- function() {
 }
 
 roll_dice()
+roll_dice()
